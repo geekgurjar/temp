@@ -109,6 +109,7 @@ body {
     line-height: 14vw;
     letter-spacing: -8px;
 }
+/*  */
 
 #video-container {
     height: 100vh;
@@ -267,6 +268,11 @@ body {
     }
 
     #page1 h1 {
+        font-size: 15.5vw;
+        letter-spacing: -3px;
+    }
+
+    #page1 h2 {
         font-size: 15.5vw;
         letter-spacing: -3px;
     }
